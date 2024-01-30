@@ -1,6 +1,6 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Edit from'./components/Edit'
+import Navbar from './Components/Navbar'
+import Edit from'./Components/Edit'
 import Book from './Components/Book'
 import Add from './Components/Add'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
